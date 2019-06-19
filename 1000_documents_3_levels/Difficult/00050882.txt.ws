@@ -1,0 +1,64 @@
+Nâng_cao ý_thức pháp_luật trong xây_dựng nhà_nước pháp_quyền xã_hội_chủ_nghĩa ở Việt_Nam 
+Ý_thức pháp_luật là tổng_thể những quan_điểm , tư_tưởng , tình_cảm của con_người , thể_hiện thái_độ , sự đánh_giá về tính công_bằng hay không công_bằng , đúng_đắn hay không đúng_đắn , về tính hợp_pháp hay không hợp_pháp trong hoạt_động của các chủ_thể . 
+Ý_thức pháp_luật là một trong những vấn_đề cơ_bản , phức_tạp của đời_sống pháp_luật ; là điều_kiện , tiền_đề tư_tưởng quan_trọng , trực_tiếp cho việc xây_dựng và hoàn_thiện hệ_thống pháp_luật ; là cơ_sở hình_thành văn_hoá pháp_lý của các chủ_thể , tạo cho các chủ_thể có khả_năng , kỹ_năng sử_dụng hiệu_quả cơ_chế điều_chỉnh pháp_luật để bảo_vệ lợi_ích cho bản_thân , cho nhà_nước và xã_hội , xử_sự đúng_đắn , phù_hợp trong các mối quan_hệ xã_hội . 
+Ý_thức pháp_luật được tạo nên bởi tư_tưởng pháp_luật và tâm_lý pháp_luật . 
+Nếu tư_tưởng pháp_luật là kết_quả của sự phản_ánh tự_giác , có mục_đích , có tính tổ_chức cao của hoạt_động tư_duy , thì tâm_lý pháp_luật là sự phản_ánh những tâm_trạng , cảm_xúc , thái_độ , tình_cảm của con_người với quá_trình điều_chỉnh của pháp_luật . 
+Tâm_lý pháp_luật bị chi_phối bởi tư_tưởng pháp_luật , nó phụ_thuộc rất nhiều vào đặc_điểm và trình_độ nhận_thức pháp_luật của cá_nhân . 
+Và ngược lại , tâm_lý pháp_luật là tiền_đề thúc_đẩy quá_trình hình_thành và phát_triển các tư_tưởng , quan_điểm pháp_luật phù_hợp . 
+Ý_thức pháp_luật phản_ánh sâu_sắc đời_sống pháp_luật , trước_hết là phản_ánh quá_trình nhận_thức và ý_thức chấp_hành pháp_luật của các chủ_thể và việc điều_chỉnh hành_vi của con_người nhằm duy_trì trật_tự kỷ_cương theo pháp_luật . 
+Nó là một trong những nhân_tố có ý_nghĩa quan_trọng trong việc xây_dựng Nhà_nước pháp_quyền XHCN của nhân_dân , do nhân_dân và vì nhân_dân ở Việt_Nam . 
+Việc xây_dựng văn_hoá pháp_lý , nâng_cao ý_thức pháp_luật có ý_nghĩa đặc_biệt quan_trọng và khó_khăn . 
+Bởi , đó là quá_trình biến_đổi thái_độ đối_với pháp_luật , thay_đổi một_cách cơ_bản việc nhận_thức về pháp_luật , các quan_niệm về giá_trị của pháp_luật , nâng_cao ý_thức , trình_độ pháp_luật . 
+Đó là một quá_trình vừa đấu_tranh với cái cũ , nếp cũ , tư_tưởng phong_kiến lạc_hậu , bảo_thủ , cực_đoan , tồn_tại " trên " pháp_luật và ngoài pháp_luật , vừa xây_dựng nền_móng , những điều_kiện cho cái mới ra_đời . 
+Lịch_sử nhà_nước và pháp_luật thế_giới chỉ ra rằng , nếu nhà_nước coi pháp_luật chỉ như công_cụ phục_vụ riêng cho giai_cấp cầm_quyền , tuỳ_tiện sử_dụng bất_chấp quy_luật xã_hội thì không_những không giải_quyết được những mâu_thuẫn và xung_đột xã_hội , mà ngược lại , làm sâu_sắc thêm những mâu_thuẫn và xung_đột đó . 
+Trong nhà_nước pháp_quyền , pháp_luật có vị_trí " tối_thượng " và cũng đặt ra yêu_cầu đối_với pháp_luật phải phù_hợp với quy_luật khách_quan , hợp_lý , công_bằng , nhân_đạo ; pháp_luật thể_hiện ở đây như một sự cần_thiết để kích_thích tính tích_cực sáng_tạo , tính tự_ý_thức của con_người và trách_nhiệm của họ . 
+Nhà_nước pháp_quyền và ý_thức pháp_luật vận_động , phát_triển gắn liền với nhau , hỗ_trợ nhau và thúc_đẩy nhau . 
+Một trong những nguyên_tắc cơ_bản của việc xây_dựng Nhà_nước pháp_quyền XHCN của nhân_dân , do nhân_dân , vì nhân_dân ở nước ta là quyền_lực nhà_nước là thống_nhất trong đó có sự phân_công , phối_hợp và kiểm_soát việc thực_hiện quyền lập_pháp , hành_pháp và tư_pháp . 
+Đây vừa là điểm đặc_thù của việc xây_dựng Việt_Nam trở_thành nhà_Nước pháp_quyền XHCN , vừa là sự lựa_chọn đúng_đắn , phù_hợp với hoàn_cảnh lịch_sử cụ_thể nước ta . 
+Có_thể hiểu rằng , sự thống_nhất là nền_tảng , sự phân_công , phối_hợp và kiểm_soát là phương_thức để đạt được sự thống_nhất của quyền_lực nhà_nước . 
+Ý_thức pháp_luật không_thể được nâng lên và không_thể xây_dựng được Nhà_nước pháp_quyền khi tổ_chức và hoạt_động của các cơ_quan thực_hiện quyền lập_pháp , hành_pháp và tư_pháp không hiệu_lực , hiệu_quả . 
+Vì vậy , xây_dựng Nhà_nước pháp_quyền chính là để nâng_cao , bồi_đắp , thậm_chí là chấn_chỉnh ý_thức pháp_luật cho mọi đối_tượng , mọi chủ_thể xã_hội . 
+Để nâng_cao ý_thức pháp_luật , góp_phần thực_hiện thành_công chủ_trương xây_dựng Nhà_nước pháp_quyền XHCN của nhân_dân , do nhân_dân , vì nhân_dân ở Việt_Nam hiện_nay , cần thực_hiện tốt một_số giải_pháp sau : 
+Một là , không ngừng hoàn_thiện thể_chế của kinh_tế_thị_trường định_hướng xã_hội_chủ_nghĩa 
+Xây_dựng nền kinh_tế_thị_trường định_hướng XHCN sẽ là tác_nhân trực_tiếp kích_thích sự phát_triển của luật_pháp , làm cho luật_pháp đóng vai_trò của người bảo_đảm biến thị_trường từ trạng_thái " tự_nhiên , lộn_xộn " thành một thị_trường " văn_minh " , nơi mọi hoạt_động sản_xuất , trao_đổi , lưu_thông_hàng_hoá được tiến_hành theo các quy_tắc văn_minh được luật_định rõ_ràng . 
+Pháp_luật định_hướng cho sự phát_triển đa_dạng các quan_hệ kinh_tế , nhưng phải hạn_chế được và tiến tới loại_bỏ các yếu_tố tự_phát , ngẫu_nhiên , tuỳ_tiện , ngăn_ngừa các yếu_tố gây mất ổn_định , rối_loạn , khủng_hoảng , thiết_lập các quan_hệ kinh_tế ổn_định và phát_triển bền_vững . 
+Hai là , tăng_cường , đẩy_mạnh công_tác tổ_chức thực_hiện pháp_luật 
+Tổ_chức thực_hiện pháp_luật là một trong những giải_pháp quan_trọng hàng_đầu để nâng_cao ý_thức pháp_luật cho mọi chủ_thể . 
+Tăng_cường tổ_chức thực_hiện pháp_luật bảo_đảm một_số yếu_tố như : thực_hiện đúng và nghiêm , thực_hiện kịp_thời , thực_hiện có hiệu_quả . 
+Thực_hiện đúng và nghiêm pháp_luật tạo ra sự thống_nhất , nhất_quán từ Trung_ương đến cơ_sở , từ thành_thị đến nông_thôn . 
+Tính kịp_thời đòi_hỏi sự công_khai , minh_bạch khi áp_dụng pháp_luật . 
+Ngoài_ra , kịp_thời còn có ý_nghĩa dự_báo , đón_đầu của pháp_luật đối_với sự vận_động , biến_đổi nhanh_chóng của thực_tiễn . 
+Ba là , đẩy_mạnh công_tác bảo_vệ pháp_luật 
+Các cơ_quan tư_pháp một mặt phải thật_sự là chỗ_dựa vững_chắc của nhân_dân trong việc bảo_vệ công_lý , quyền con_người , quyền_công_dân đồng_thời phải là những cộng cụ hữu_hiệu bảo_vệ pháp_luật , bảo_vệ pháp_chế XHCN , đấu_tranh có hiệu_quả với các hành_vi vi_phạm pháp_luật . 
+Sự phát_triển nhanh_chóng của kinh_tế - xã_hội đất_nước cũng đặt ra yêu_cầu phải đề ra những nội_dung cải_cách tư_pháp sao cho phù_hợp , thống_nhất , đồng_bộ với đổi_mới hoạt_động lập_pháp và hành_pháp , cải_cách hành_chính . 
+Tổ_chức các cơ_quan tư_pháp và các chế_định bổ_trợ tư_pháp hợp_lý , khoa_học và hiện_đại về cơ_cấu tổ_chức ; cần tiếp_tục đổi_mới việc tổ_chức xét_xử và nâng_cao chất_lượng tranh_tụng tại các phiên_toà , xác_định toà_án có vị_trí trung_tâm và xét_xử là hoạt_động trọng_tâm , coi đây là khâu đột_phá của hoạt_động tư_pháp để có biện_pháp tập_trung thực_hiện có hiệu_quả trong thời_gian tới . 
+Xây_dựng đội_ngũ cán_bộ tư_pháp có trình_độ , được rèn_luyện nghiệp_vụ thường_xuyên . 
+Đồng_thời , phát_huy vai_trò giám_sát của các cơ_quan_dân_cử , của công_luận và của nhân_dân đối_với hoạt_động tư_pháp . 
+Bốn là , kế_thừa những giá_trị pháp_luật truyền_thống , tiếp_thu những giá_trị pháp_lý của thời_đại 
+Vận_dụng tư_tưởng pháp_quyền của Chủ_tịch Hồ_Chí_Minh , kế_thừa những truyền_thống quý_báu trong việc xây_dựng nhà_nước và pháp_luật suốt mấy trăm năm qua của dân_tộc ta , đồng_thời tiếp_thu những giá_trị của nền khoa_học pháp_lý quốc_tế và kinh_nghiệm của các nước khác có truyền_thống pháp_lý lâu_đời trong lĩnh_vực này là một trong những giải_pháp có hiệu_quả trong việc góp_phần nâng_cao ý_thức pháp_luật trong quá_trình xây_dựng Nhà_nước pháp_quyền XHCN của dân , do dân , vì dân vừa mang tính đặc_thù , phù_hợp với văn_hoá Việt_Nam , vừa mang tính hiện_đại , đáp_ứng tốt yêu_cầu hội_nhập quốc_tế . 
+Hệ_thống pháp_luật mà chúng_ta đã và đang hoàn_thiện là hệ_thống pháp_luật được xây_dựng trên những cơ_sở khách_quan , dân_chủ và thể_hiện được ý_chí và nguyện_vọng củc các tầng_lớp nhân_dân lao_động , vừa mang tính thời_đại , có tính thực_tiễn cao vừa mang tính kế_thừa những giá_trị pháp_lý quý_báu của dân_tộc , phù_hợp với truyền_thống văn_hoá , tập_quán pháp_luật . 
+Chẳng_hạn , hoà_giải không_những củng_cố sự đoàn_kết trong nội_bộ nhân_dân , mà_còn giúp nhân_dân nâng_cao ý_thức pháp_luật , tăng_cường phương_châm sống và làm_việc theo pháp_luật . 
+Thêm nữa , hoạt_động hoà_giải đã làm đa_dạng quyền dân_chủ , tự_quyết của tất_cả mọi người khi tham_gia vào quá_trình đó . 
+Chủ_tịch Hồ_Chí_Minh đã đề_cập vấn_đề này hết_sức sâu_sắc , Người nói : " Xét_xử đúng là tốt nhưng nếu không phải xét_xử thì càng tốt hơn " . 
+Để tạo ra trật_tự , ổn_định và phù_hợp với đặc_thù từng môi_trường sống , ngoài việc học_hỏi , kế_thừa các giá_trị pháp_lý truyền_thống trong xây_dựng pháp_luật , các cộng_đồng người đã dùng nhiều quy_tắc xã_hội , quy_tắc đạo_đức , truyền_thống , thậm_chí cả quy_tắc tôn_giáo . 
+Mỗi quy_tắc xã_hội đều có chức_năng điều_chỉnh của mình . 
+Chúng bổ_trợ cho nhau và bổ_sung cho pháp_luật trong việc điều_chỉnh các quan_hệ xã_hội . 
+Chính vì vậy , mối liên_hệ giữa pháp_luật với các yếu_tố khác trong hệ_thống các quy_tắc xã_hội truyền_thống sẽ giúp xác_định rõ hơn phạm_vi điều_chỉnh của pháp_luật đối_với các quan_hệ xã_hội và tính liên_thông , tương_trợ giữa pháp_luật với các quy_tắc xã_hội khác trong quá_trình tham_gia quản_lý xã_hội góp_phần nâng_cao ý_thức pháp_luật cho mọi chủ_thể xã_hội . 
+Trong quan_hệ quốc_tế , Việt_Nam đã và đang thực_hiện một_cách nghiêm_chỉnh các cam_kết và nghĩa_vụ pháp_lý xuất_phát từ các điều_ước quốc_tế mà Nhà_nước Việt_Nam ký_kết hoặc công_nhận , thừa_nhận giá_trị ưu_tiên của các cam_kết và nghĩa_vụ đó đối_với pháp_luật trong nước . 
+Đây là một nguyên_tắc được coi_trọng trong quá_trình hội_nhập với thế_giới trong bối_cảnh toàn_cầu_hoá , có tác_dụng rất to_lớn để nâng_cao ý_thức pháp_luật xã_hội . 
+Một_số sự_kiện về việc các nước với mục_đích bảo hệ hàng_hoá trong nước , tiến_hành kiện chống bán_phá_giá đối_với một_số mặt_hàng xuất_khẩu của Việt_Nam như : cá_basa , giày mũi da , xe_đạp , bật_lửa ga , tôm đông_lạnh ... đã đặt ra yêu_cầu đối_với các doanh_nghiệp , các nhà làm luật , đội_ngũ thực_thi pháp_luật và bảo_vệ pháp_luật ở nước ta phải nâng_cao kiến_thức pháp_luật quốc_tế nói_chung và pháp_luật của các nước mà chúng_ta có quan_hệ thương_mại nói_riêng . 
+Việt_Nam muốn hội_nhập kinh_tế quốc_tế tốt thì việc đào_tạo một đội_ngũ cán_bộ chuyên_gia có đủ phẩm_chất , năng_lực , nắm vững và vận_dụng thích_ứng pháp_luật quốc_tế là một trong những khâu có ý_nghĩa quyết_định . 
+Nghiên_cứu pháp_luật các nước và thông_qua các tổ_chức quốc_tế hoặc các cam_kết song_phương , đa_phương sẽ giúp cho pháp_luật của nước ta phát_triển một_cách hài_hoà , tiến tới thiết_lập những giá_trị pháp_lý chung , tạo tiền_đề và điều_kiện cho sự hợp_tác và phát_triển trong thế_giới hiện_nay . 
+Năm là , tăng_cường sự lãnh_đạo của Đảng Cộng_sản Việt_Nam 
+Đảng Cộng_sản Việt_Nam lãnh_đạo Nhà_nước và xã_hội bằng cương_lĩnh , chiến_lược , các định_hướng về chính_sách và chủ_trương công_tác , bằng công_tác cán_bộ , tuyên_truyền , thuyết_phục , vận_động , tổ_chức , kiểm_tra . 
+Đảng cầm_quyền , đề ra mục_tiêu , phương_hướng cho công_tác xây_dựng pháp_luật , để nâng_cao ý_thức pháp luật,các mục_tiêu , phương_hướng phải chính_xác và phải đôn_đốc , thúc_đẩy quá_trình hoàn_thiện khung khổ pháp_luật . 
+Cần tách_bạch nhiệm_vụ người đảng_viên với nhiệm_vụ người công_chức , viên_chức trong thực_thi nhiệm_vụ được giao . 
+Việc tách_bạch đó không phải tạo ra sự biệt_lập , ngăn_cách giữa công_tác đảng với công_việc của Nhà_nước , mà là làm cho mỗi cá_nhân đảng_viên nhận_thức rõ nhiệm_vụ , đồng_thời có ý_thức trách_nhiệm cao hơn với công_việc . 
+Bồi_dưỡng phẩm_chất chính_trị , phẩm_chất đạo_đức cách_mạng , học_vấn , nâng_cao năng_lực làm_việc cho đội_ngũ đảng_viên , để họ có ý_thức tự_giác cao trong việc thực_hiện nghiêm pháp_luật , tuân_thủ pháp_luật cũng như theo chủ_trương , đường_lối của Đảng . 
+Đảng thể_hiện vai_trò lãnh_đạo thông_qua hoạt_động của đảng_viên , sự nêu gương trong mọi hoạt_động , hành_vi ứng_xử là yếu_tố nổi_bật nhất . 
+Sự gương_mẫu của người đảng_viên trong việc thực_thi , tuân_thủ pháp_luật có tác_động rất lớn tới các chủ_thể khác trong xã_hội . 
+Chủ_tịch Hồ_Chí_Minh đã từng nói : " Sức_mạnh vô_địch của Đảng là ở tinh_thần kỷ_luật tự_giác , ý_thức tổ chứcnghiêm chỉnh của cán_bộ và đảng_viên " ( 1 ) . 
+Xây_dựng Nhà_nước pháp_quyền XHCN của dân , do dân , vì dân là một trong những nhiệm_vụ trên con đường đưa đất_nước ta vững bước_tiến lên xây_dựng thành công_CNXH . 
+Công_việc đó đòi_hỏi toàn Đảng , toàn dân cùng đồng_lòng , chung sức quyết_tâm thực_hiện . 
+Chính vì vậy , quan_tâm , lựa_chọn những giải_pháp nhằm nâng_cao ý_thức pháp_luật cho nhân_dân là một điều vừa cấp_thiết , vừa mang tính thường_xuyên , liên_tục , nhất_là trong bối_cảnh Việt_Nam hội_nhập sâu_rộng với quốc_tế hiện_nay . 
+Xây_dựng ý_thức pháp_luật không phải là công_việc của riêng Nhà_nước , của Đảng , của các cơ_quan công_quyền , mà là của toàn dân , vừa là nhiệm_vụ đối_với Nhà_nước , vừa là nhiệm_vụ tự_thân mỗi công_dân mang trên mình trách_nhiệm cùng nhau xây_dựng Nhà_nước pháp_quyền XHCN Việt_Nam . 

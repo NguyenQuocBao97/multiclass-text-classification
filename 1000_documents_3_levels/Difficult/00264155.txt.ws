@@ -1,0 +1,36 @@
+Quyết_định về việc ban_hành quy_định về bồi_thường , hỗ_trợ và tái_định_cư khi nhà_nước thu_hồi đất trên địa_bàn tỉnh khánh hòa 
+Ủy ban nhân_dân tỉnh khánh hòa 
+Căn_cứ Luật Tổ_chức Hội_đồng_nhân_dân và Uỷ_ban_nhân_dân ngày 26 tháng 11 năm 2003 ; 
+Căn_cứ Luật Ban_hành văn_bản quy_phạm pháp_luật của Hội_đồng_nhân_dân và Uỷ_ban_nhân_dân ngày 03 tháng 12 năm 2004 ; 
+Căn_cứ Luật Đất_đai ngày 26 tháng 11 năm 2003 ; 
+Căn_cứ Luật Xây_dựng ngày 26 tháng 11 năm 2003 ; 
+Căn_cứ Nghị_định số 181/2004/NĐ-CP ngày 29 tháng 10 năm 2004 của Chính_phủ về thi_hành Luật Đất_đai ; 
+Căn_cứ Nghị_định số 187/2004/NĐ-CP ngày 16 tháng 11 năm 2004 của Chính_phủ về việc chuyển công_ty nhà_nước thành công_ty cổ_phần ; 
+Căn_cứ Nghị_định số 197/2004/NĐ-CP ngày 03 tháng 12 năm 2004 của Chính_phủ về bồi_thường , hỗ_trợ và tái_định_cư khi nhà_nước thu_hồi đất ; 
+Căn_cứ Nghị_định số 198/2004/NĐ-CP ngày 03 tháng 12 năm 2004 của Chính_phủ về thu tiền_sử_dụng đất ; 
+Căn_cứ Nghị_định số 17/2006/NĐ-CP ngày 27 tháng 01 năm 2006 của Chính_phủ về sửa_đổi , bổ_sung một_số điều của các Nghị_định hướng_dẫn thi_hành Luật Đất_đai ; 
+Căn_cứ Nghị_định số 84/2007/NĐ-CP ngày 25 tháng 5 năm 2007 của Chính_phủ quy_định bổ_sung về việc cấp Giấy chứng_nhận quyền sử_dụng đất , thu_hồi đất , thực_hiện quyền sử_dụng đất , trình_tự , thủ_tục bồi_thường , hỗ_trợ , tái_định_cư khi Nhà_nước thu_hồi đất và giải_quyết khiếu_nại về đất_đai ; 
+Căn_cứ Nghị_định số 69/2009/NĐ-CP ngày 13 tháng 8 năm 2009 của Chính_phủ Quy_định bổ_sung về quy_hoạch sử_dụng đất , giá đất , thu_hồi đất , bồi_thường , hỗ_trợ và tái_định_cư ; 
+Căn_cứ Thông_tư số 14/2009/TT-BTNMT ngày 01 tháng 10 năm 2009 của Bộ Tài_nguyên và Môi_trường Quy_định chi_tiết về bồi_thường , hỗ_trợ và tái_định_cư và trình_tự , thủ_tục thu_hồi đất , giao đất , cho thuê đất ; 
+Theo đề_nghị của Giám_đốc Sở Tài_nguyên và Môi_trường tại Tờ_trình số 576/TTr-STNMT-GĐBTTĐC ngày 10 tháng 12 năm 2009, 
+Quyết_định : 
+Điều 1 . Ban_hành Quy_định về bồi_thường , hỗ_trợ và tái_định_cư khi Nhà_nước thu_hồi đất trên địa_bàn tỉnh Khánh_Hoà đính kèm theo Quyết_định này . 
+Điều 2 . Quyết_định này có hiệu_lực sau 10 ngày kể từ ngày ký và thay_thế các Quyết_định sau : 
+- Quyết_định số 02/2007/QĐ-UBND ngày 15 tháng 01 năm 2007 của Uỷ_ban_nhân_dân tỉnh Khánh_Hoà Ban_hành Quy_định về bồi_thường , hỗ_trợ và tái_định_cư khi Nhà_nước thu_hồi đất trên địa_bàn tỉnh Khánh_Hoà ; 
+- Quyết_định số 64/2008/QĐ-UBND ngày 25 tháng 9 năm 2008 của Uỷ_ban_nhân_dân tỉnh Khánh_Hoà Ban_hành Quy_định về việc thẩm_định , phê_duyệt phương_án bồi_thường , hỗ_trợ và tái_định_cư khi nhà_nước thu_hồi đất trên địa_bàn tỉnh Khánh_Hoà ; 
+- Quyết_định số 460/QĐ-UBND ngày 26 tháng 02 năm 2009 của Uỷ_ban_nhân_dân tỉnh , về sửa_đổi , bổ_sung khoản 3 Điều 12 Quy_định ban_hành kèm theo Quyết_định số 02/2007/QĐ-UBND ngày 15 tháng 01 năm 2007 của Uỷ_ban_nhân_dân tỉnh , về bồi_thường , hỗ_trợ và tái_định_cư khi Nhà_nước thu_hồi đất trên địa_bàn tỉnh Khánh_Hoà ; 
+- Quyết_định số 51/2009/QĐ-UBND ngày 25 tháng 6 năm 2009 của Uỷ_ban_nhân_dân tỉnh về việc bổ_sung khoản 7 Điều 38 của Quy_định ban_hành kèm theo Quyết_định số 02/2007/QĐ-UBND ngày 15 tháng 01 năm 2007 của Uỷ_ban_nhân_dân tỉnh , về bồi_thường , hỗ_trợ và tái_định_cư khi Nhà_nước thu_hồi đất trên địa_bàn tỉnh Khánh_Hoà ; 
+- Bãi_bỏ điểm 3 Mục_I_Phần_A của Quy_định giá các loại đất năm 2009 ban_hành kèm theo Quyết_định số 90/2008/QĐ-UBND ngày 23 tháng 12 năm 2008 của Uỷ_ban_nhân_dân tỉnh Khánh_Hoà ( Phụ_lục 2 kèm theo Bảng giá đất ) . 
+Điều 3 . Quy_định chuyển_tiếp 
+1 . Đối_với những dự_án , hạng_mục đã chi_trả xong bồi_thường , hỗ_trợ và tái_định_cư trước ngày Quyết_định này có hiệu_lực thi_hành thì không áp_dụng hoặc không điều_chỉnh theo quy_định tại Quyết_định này . 
+2 . Đối_với những dự_án , hạng_mục đã phê_duyệt phương_án bồi_thường , hỗ_trợ và tái_định_cư hoặc đang thực_hiện chi_trả bồi_thường , hỗ_trợ và tái_định_cư theo phương_án đã được phê_duyệt trước ngày Quyết_định này có hiệu_lực thi_hành thì thực_hiện theo phương_án đã phê_duyệt , không áp_dụng hoặc điều_chỉnh theo quy_định tại Quyết_định này . 
+Trường_hợp thực_hiện bồi_thường chậm thì giá đất để thực_hiện bồi_thường , hỗ_trợ thực_hiện theo quy_định tại khoản 2 Điều 9 bản quy_định ban_hành kèm theo Quyết_định này . 
+3 . Cơ_quan Tài_chính là đơn_vị đã được phân_cấp thẩm_định phương_án bồi_thường , hỗ_trợ và tái_định_cư trước đây ( quy_định tại Quyết_định số 02/2007/QĐ-UBND ngày 15 tháng 01 năm 2007 của Uỷ_ban_nhân_dân tỉnh ) , nay tiếp_tục thẩm_định và trình Uỷ_ban_nhân_dân cấp có thẩm_quyền phê_duyệt hoặc xem_xét giải_quyết đối_với các trường_hợp sau : 
+- Trường_hợp các phương_án bồi_thường , hỗ_trợ và tái_định_cư ( phương_án chi_tiết ) đã được cơ_quan Tài_chính thẩm_định trước ngày 01 tháng 10 năm 2009 , nay tiếp_tục thực_hiện trình thẩm_định và phê_duyệt kinh_phí bồi_thường , hỗ_trợ và tái_định_cư bổ_sung một_số nội_dung bồi_thường , hỗ_trợ tái_định_cư còn sót hoặc trình xử_lý các vướng_mắc , tồn_tại , các khiếu_nại liên_quan đến các trường_hợp đã được phê_duyệt , chi_trả tại các phương_án nêu trên . 
+- Trường_hợp các phương_án bồi_thường , hỗ_trợ và tái_định_cư ( phương_án chi_tiết ) đã được cơ_quan Tài_chính thẩm_định trước ngày 01 tháng 10 năm 2009 , nay thực_hiện trình thẩm_định lại hoặc trình phê_duyệt kinh_phí bồi_thường , hỗ_trợ và tái_định_cư cho phương_án đã được thẩm_định nêu trên . 
+4 . Việc thẩm_định , trình phê_duyệt đối_với phương_án tổng_thể 
+Trường_hợp các dự_án đã được phê_duyệt dự_án đầu_tư trước ngày 01 tháng 10 năm 2009 nay chuẩn_bị lập_phương_án bồi_thường , hỗ_trợ tái_định_cư nhưng trong dự_án đầu_tư không_thể_hiện nội_dung của phương_án tổng_thể về bồi_thường , hỗ_trợ tái_định_cư hoặc có thể_hiện phương_án tổng_thể về bồi_thường , hỗ_trợ tái_định_cư nhưng không đủ các nội_dung theo quy_định tại khoản 2 Điều 57 bảng ban_hành quy_định kèm theo Quyết_định này , thì tổ_chức làm nhiệm_vụ bồi_thường , hỗ_trợ và tái_định_cư lập_phương_án tổng_thể theo các nội_dung tại khoản 2 Điều 57 bảng quy_định kèm theo Quyết_định này . 
+Thẩm_quyền phê_duyệt đối_với phương_án tổng_thể về bồi_thường , hỗ_trợ tái_định_cư trong trường_hợp này được thực_hiện theo thẩm_quyền phê_duyệt của dự_án đầu_tư , cụ_thể là : 
+Sở Tài_nguyên và Môi_trường thẩm_định đối_với các phương_án tổng_thể về bồi_thường , hỗ_trợ , tái_định_cư thuộc thẩm_quyền phê_duyệt của Uỷ_ban_nhân_dân tỉnh ; Phòng Tài_nguyên và Môi_trường thẩm_định đối_với các phương_án tổng_thể về bồi_thường , hỗ_trợ , tái_định_cư thuộc thẩm_quyền phê_duyệt của Uỷ_ban_nhân_dân cấp huyện . 
+5 . Trường_hợp đặc_biệt , Tổ_chức làm nhiệm_vụ bồi_thường , hỗ_trợ và tái_định_cư có văn_bản đề_xuất nội_dung cụ_thể trình Uỷ_ban_nhân_dân tỉnh xem_xét , quyết_định . 
+Điều 4 . Chánh_Văn_phòng Uỷ_ban_nhân_dân tỉnh ; Giám_đốc các Sở : Tài_chính , Tài_nguyên và Môi_trường , Xây_dựng , Nông_nghiệp và Phát_triển Nông_thôn , Giao_thông vận_tải , Tư_pháp ; Cục_trưởng Cục Thuế ; Chủ_tịch Uỷ_ban_nhân_dân các huyện , thị_xã Cam_Ranh , thành_phố Nha_Trang ; Chủ_tịch Uỷ_ban_nhân_dân các xã , phường , thị_trấn ; Giám_đốc Trung_tâm Phát_triển quỹ đất ; Thủ_trưởng các cơ_quan , đơn_vị có liên_quan ; Chủ đầu_tư các dự_án ; Các tổ_chức , hộ gia_đình , cá_nhân bị thu_hồi đất và những người có liên_quan chịu trách_nhiệm thi_hành Quyết_định này . 

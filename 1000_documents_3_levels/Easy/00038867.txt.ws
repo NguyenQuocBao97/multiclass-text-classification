@@ -1,0 +1,6 @@
+Em yêu Tổ_Quốc Việt_Nam 
+Dân_tộc Việt_Nam có hàng nghìn năm văn_hiến và truyền_thống đấu_tranh dựng nước , giữ nước rất đáng tự_hào . 
+Việt_Nam từ một nước phải nhập_khẩu gạo đã trở_thành một trong những nước có lượng gạo xuất_khẩu lớn nhất trên thế_giới . 
+Ngoài_ra , nước ta còn xuất_khẩu cà_phê , chè , thuỷ , hải_sản , ... 
+Nước ta đã xây_dựng được nhiều công_trình lớn như : Nhà_máy Thuỷ_điện Hoà_Bình , Nhà_máy Nhiệt_điện Phả_Lại_II , cầu Mỹ_Thuận , hầm đường_bộ qua đèo Hải_Vân , ... 
+Tính đến năm 2005 , Việt_Nam có Vịnh Hạ_Long , Cố_đô Huế , Phố cổ Hội_An , Di_tích Mỹ_Sơn , Vườn_quốc_gia Phong_Nha - Kẻ_Bàng , Nhã_nhạc cung_đình Huế , Không_gian văn_hoá cồng_chiêng Tây_Nguyên đã được UNESCO công_nhận là di_sản thế_giới . 

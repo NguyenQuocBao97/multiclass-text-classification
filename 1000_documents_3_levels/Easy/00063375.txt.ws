@@ -1,0 +1,9 @@
+Hút thuốc_lá ( hoặc thuốc_lào ) có hại gì ? 
+Thuốc_lá là chất gây nghiện : làm người hút phụ_thuộc vào thuốc_lá , dẫn đến nghiện . 
+Có hại cho sức_khoẻ người hút 
+Khói thuốc_lá chứa rất nhiều chất_độc , có_thể gây ra nhiều căn_bệnh như ung_thư phổi , các bệnh về đường hô_hấp và tim_mạch , ... 
+Khói thuốc_lá làm hơi_thở hôi , răng ố vàng , môi thâm , da sớm bị nhăn , ... 
+Ảnh_hưởng đến những người xung_quanh 
+Những người không hút thuốc_lá nhưng hít phải khói thuốc_lá cũng dễ bị mắc các bệnh như người hút thuốc_lá . 
+Trẻ_em sống trong môi_trường có khói thuốc_lá dễ mắc các bệnh nhiễm_khuẩn đường hô_hấp , viêm tai giữa , ... 
+Sống gần người hút thuốc_lá , trẻ_em dễ bắt_chước và trở_thành người nghiện thuốc_lá . 
