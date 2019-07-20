@@ -43,8 +43,8 @@ if __name__ == '__main__':
     # 0,1,0 : Class 2
     # 1,0,0 : Class 3
 
-    train_x, test_x, train_y, test_y = model_selection.train_test_split(X, Y, test_size=0.1, random_state=0)
-    print(data.columns)
+    train_x, test_x, train_y, test_y = model_selection.train_test_split(X, Y, test_size=0.05, random_state=0)
+    # print(data.columns)
     input_dim = len(data.columns) - 1
     MAX_NB_WORDS = 50000
     EMBEDDING_DIM = 100
@@ -70,8 +70,8 @@ if __name__ == '__main__':
     history = model.fit(train_x, train_y, batch_size=16, epochs=10)
     scores = model.evaluate(test_x, test_y, batch_size=16)
 
-    print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1] * 100))
-    print(history.history.keys())
+    # print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1] * 100))
+    # print(history.history.keys())
     pyplot.plot(history.history['acc'], label='train')
     pyplot.plot(history.history['loss'], label='loss')
     pyplot.legend()

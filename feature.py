@@ -131,7 +131,7 @@ def load_data_and_labels():
             aslc = total_characters / total_sentences
 
             # Average word length
-            awls = total_characters / total_syllables
+            awls = total_syllables / total_words
             awlc = total_characters / total_words
 
             # Percentage of difficult words
