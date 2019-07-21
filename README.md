@@ -1,2 +1,2 @@
 # multiclass-text-classification
-Assessing the readability of Vietnamese text using tensorflow
+Assessing the readability of Vietnamese text using tensorflow and keras
