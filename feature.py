@@ -77,7 +77,7 @@ def load_data_and_labels():
         'fkgl': None,
         'cli': None,
         'fog': None,
-        'bgl': None,
+        # 'bgl': None,
         'smog': None,
         'ari': None,
         'dca': None
@@ -200,7 +200,7 @@ def load_data_and_labels():
             afw = float(total_common_words / total_words)
             asl = float(total_words / total_sentences)
 
-            bgl = .886593 - (awl * 0.03640) + (afw * 0.161911) - (asl * 0.21401) - (asl * 0.000577) - (asl * 0.000005)
+            # bgl = .886593 - (awl * 0.03640) + (afw * 0.161911) - (asl * 0.21401) - (asl * 0.000577) - (asl * 0.000005)
 
             # SMOG
             smog = 1.0430 * math.sqrt((total_difficult_words) * (30.0 / total_sentences)) + (3.1291)
@@ -234,10 +234,35 @@ def load_data_and_labels():
                 'fkgl': fkgl if fkgl > 0 else 0,
                 'cli': cli if cli > 0 else 0,
                 'fog': fog if fog > 0 else 0,
-                'bgl': bgl if bgl > 0 else 0,
+                # 'bgl': bgl if bgl > 0 else 0,
                 'smog': smog if smog > 0 else 0,
                 'ari': ari if ari > 0 else 0,
                 'dca': dca if dca > 0 else 0,
+                'result': sub_di
+            }
+
+            features = {
+                'aslw': aslw,
+                'asls': asls,
+                'aslc': aslc,
+                'awls': awls,
+                'awlc': awlc,
+                'pdw': pdw,
+                'pddw': pddw,
+                'ddwdw': ddwdw,
+                'pds': pds,
+                'pdds': pdds,
+                'ddsds': ddsds,
+                'psvw': psvw,
+                'pdsvw': pdsvw,
+                'dsvwdw': dsvwdw,
+                'fres': fres,
+                'fkgl': fkgl,
+                'cli': cli,
+                'fog': fog,
+                'smog': smog,
+                'ari': ari,
+                'dca': dca,
                 'result': sub_di
             }
 
@@ -246,7 +271,7 @@ def load_data_and_labels():
     # print(csv_data)
     wb = Workbook()
     wb.new_sheet("sheet name", data=csv_data)
-    wb.save("output.xlsx")
+    wb.save("output_dt.xlsx")
 
     # selected = ['product', 'consumer_complaint_narrative']
     # non_selected = list(set(df.columns) - set(selected))
