@@ -5,7 +5,7 @@
 import numpy as np
 import pandas as pd
 from keras.callbacks import EarlyStopping
-from keras.layers import Dense, Embedding, SpatialDropout1D, LSTM, Dropout
+from keras.layers import Dense, Embedding, SpatialDropout1D, LSTM, Dropout, K
 from keras.models import Sequential
 from keras.utils import np_utils
 from matplotlib import pyplot
@@ -14,7 +14,8 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.utils import shuffle
 
 if __name__ == '__main__':
-    data = pd.read_excel('./output.xlsx')
+    GROUP = '12'
+    data = pd.read_excel('./output_mc_group_{}.xlsx'.format(GROUP))
     _LABEL = 'result'
     data = shuffle(data)
 
@@ -42,37 +43,43 @@ if __name__ == '__main__':
     # 0,0,1 : Class 1
     # 0,1,0 : Class 2
     # 1,0,0 : Class 3
+    def recall_m(y_true, y_pred):
+        true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
+        possible_positives = K.sum(K.round(K.clip(y_true, 0, 1)))
+        recall = true_positives / (possible_positives + K.epsilon())
+        return recall
 
-    train_x, test_x, train_y, test_y = model_selection.train_test_split(X, Y, test_size=0.05, random_state=0)
+    def precision_m(y_true, y_pred):
+        true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
+        predicted_positives = K.sum(K.round(K.clip(y_pred, 0, 1)))
+        precision = true_positives / (predicted_positives + K.epsilon())
+        return precision
+
+    def f1_m(y_true, y_pred):
+        precision = precision_m(y_true, y_pred)
+        recall = recall_m(y_true, y_pred)
+        return 2 * ((precision * recall) / (precision + recall + K.epsilon()))
+
+    train_x, test_x, train_y, test_y = model_selection.train_test_split(X, Y, test_size=0.1, random_state=0)
     # print(data.columns)
     input_dim = len(data.columns) - 1
     MAX_NB_WORDS = 50000
     EMBEDDING_DIM = 100
     model = Sequential()
-    # model.add(Dense(8, input_dim=input_dim, activation='relu'))
-    # model.add(Dense(10, activation='relu'))
-    # model.add(Dense(10, activation='relu'))
-    # model.add(Dense(10, activation='relu'))
-    # model.add(Dense(3, activation='softmax'))
-    #
-    # model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-    # model.fit(train_x, train_y, epochs=10, batch_size=2)
 
-
-    # model.add(Dense(8, input_dim=input_dim, activation='relu'))
     model.add(Embedding(1024, output_dim=256))
     model.add(LSTM(128))
     model.add(Dropout(0.5))
     model.add(Dense(3, activation='sigmoid'))
     model.compile(loss='categorical_crossentropy',
                   optimizer='adam',
-                  metrics=['accuracy'])
+                  metrics=[f1_m])
     history = model.fit(train_x, train_y, batch_size=16, epochs=10)
-    scores = model.evaluate(test_x, test_y, batch_size=16)
-
-    # print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1] * 100))
+    f1_score = model.evaluate(test_x, test_y, batch_size=16)[1]
+    model.save('./nn_model/{}.h5'.format(GROUP))
+    print(f1_score)
     # print(history.history.keys())
-    pyplot.plot(history.history['acc'], label='train')
-    pyplot.plot(history.history['loss'], label='loss')
-    pyplot.legend()
-    pyplot.show()
+    # pyplot.plot(history.history['acc'], label='train')
+    # pyplot.plot(history.history['loss'], label='loss')
+    # pyplot.legend()
+    # pyplot.show()

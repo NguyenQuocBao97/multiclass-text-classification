@@ -73,14 +73,14 @@ def load_data_and_labels():
         'psvw': None,
         'pdsvw': None,
         'dsvwdw': None,
-        'fres': None,
-        'fkgl': None,
-        'cli': None,
-        'fog': None,
-        # 'bgl': None,
-        'smog': None,
-        'ari': None,
-        'dca': None
+
+        # 'fres': None,
+        # 'fkgl': None,
+        # 'cli': None,
+        # 'fog': None,
+        # 'smog': None,
+        # 'ari': None,
+        # 'dca': None
     }
     csv_cols = ['file'] + list(features.keys()) + ['result']
     csv_data = [csv_cols]
@@ -229,49 +229,53 @@ def load_data_and_labels():
                 'ddsds': ddsds if ddsds > 0 else 0,
                 'psvw': psvw if psvw > 0 else 0,
                 'pdsvw': pdsvw if pdsvw > 0 else 0,
-                'dsvwdw': dsvwdw if dsvwdw > 0 else 0,
-                'fres': fres if fres > 0 else 0,
-                'fkgl': fkgl if fkgl > 0 else 0,
-                'cli': cli if cli > 0 else 0,
-                'fog': fog if fog > 0 else 0,
-                # 'bgl': bgl if bgl > 0 else 0,
-                'smog': smog if smog > 0 else 0,
-                'ari': ari if ari > 0 else 0,
-                'dca': dca if dca > 0 else 0,
+                'dsvwdw': dsvwdw if  dsvwdw > 0 else 0,
+
+                # 'fres': fres if fres > 0 else 0,
+                # 'fkgl': fkgl if fkgl > 0 else 0,
+                # 'cli': cli if cli > 0 else 0,
+                # 'fog': fog if fog > 0 else 0,
+                # # 'bgl': bgl if bgl > 0 else 0,
+                # 'smog': smog if smog > 0 else 0,
+                # 'ari': ari if ari > 0 else 0,
+                # 'dca': dca if dca > 0 else 0,
                 'result': sub_di
             }
 
-            features = {
-                'aslw': aslw,
-                'asls': asls,
-                'aslc': aslc,
-                'awls': awls,
-                'awlc': awlc,
-                'pdw': pdw,
-                'pddw': pddw,
-                'ddwdw': ddwdw,
-                'pds': pds,
-                'pdds': pdds,
-                'ddsds': ddsds,
-                'psvw': psvw,
-                'pdsvw': pdsvw,
-                'dsvwdw': dsvwdw,
-                'fres': fres,
-                'fkgl': fkgl,
-                'cli': cli,
-                'fog': fog,
-                'smog': smog,
-                'ari': ari,
-                'dca': dca,
-                'result': sub_di
-            }
+            # features = {
+            #     'aslw': aslw,
+            #     'asls': asls,
+            #     'aslc': aslc,
+            #     'awls': awls,
+            #     'awlc': awlc,
+            #     'pdw': pdw,
+            #     'pddw': pddw,
+            #     'ddwdw': ddwdw,
+            #     'pds': pds,
+            #     'pdds': pdds,
+            #     'ddsds': ddsds,
+            #     'psvw': psvw,
+            #     'pdsvw': pdsvw,
+            #     'dsvwdw': dsvwdw,
+            #
+            #     'fres': fres,
+            #     'fkgl': fkgl,
+            #     'cli': cli,
+            #     'fog': fog,
+            #     'smog': smog,
+            #     'ari': ari,
+            #     'dca': dca,
+            #
+            #
+            #     'result': sub_di
+            # }
 
             csv_data.append([name] + list(features.values()))
 
     # print(csv_data)
     wb = Workbook()
     wb.new_sheet("sheet name", data=csv_data)
-    wb.save("output_dt.xlsx")
+    wb.save("output_mc_group_1.xlsx")
 
     # selected = ['product', 'consumer_complaint_narrative']
     # non_selected = list(set(df.columns) - set(selected))

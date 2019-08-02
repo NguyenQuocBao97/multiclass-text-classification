@@ -4,55 +4,77 @@
 
 import numpy as np
 import pandas as pd
-from keras.callbacks import EarlyStopping
-from keras.layers import Dense, Embedding, SpatialDropout1D, LSTM, Dropout
-from keras.models import Sequential
-from keras.utils import np_utils
-from matplotlib import pyplot
 from sklearn import model_selection
-from sklearn.preprocessing import LabelEncoder
-from sklearn.utils import shuffle
 from sklearn import tree
+from sklearn.metrics import f1_score
+from sklearn.utils import shuffle
+from sklearn import svm
+from sklearn import ensemble
+from sklearn import naive_bayes
+from sklearn import externals
+from sklearn import neighbors
+
+import pickle
 if __name__ == '__main__':
-    data = pd.read_excel('./output_dt.xlsx')
-    _LABEL = 'result'
-    data = shuffle(data)
+    print('\n\n\n')
+    for num in [2, 1, 12]:
+        print('===========================================GROUP {}==================='.format(num))
+        xlsx_output_file = 'output_dt_group_{}'.format(num)
+        group = '-'.join(xlsx_output_file.split('_')[-2:])
+        data = pd.read_excel('./{}.xlsx'.format(xlsx_output_file))
+        _LABEL = 'result'
+        data = shuffle(data)
 
-    i = 8
-    data = data.drop(['file'], axis=1)
-    data_to_predict = data[:i].reset_index(drop=True)
-    predict_species = data_to_predict.result
-    predict_species = np.array(predict_species)
-    prediction = np.array(data_to_predict.drop([_LABEL], axis=1))
+        i = 8
+        data = data.drop(['file'], axis=1)
 
-    data = data[i:].reset_index(drop=True)
+        data = data[i:].reset_index(drop=True)
 
-    X = data.drop([_LABEL], axis=1)
-    X = np.array(X)
-    Y = data[_LABEL]
+        X = data.drop([_LABEL], axis=1)
+        X = np.array(X)
+        Y = data[_LABEL]
 
-    # Transform name species into numerical values
-    encoder = LabelEncoder()
-    encoder.fit(Y)
-    Y = encoder.transform(Y)
-    Y = np_utils.to_categorical(Y)
-    # print(Y)
+        # encoder = LabelEncoder()
+        # encoder.fit(Y)
+        # Y = encoder.transform(Y)
+        # Y = np_utils.to_categorical(Y)
+        # print(Y)
+        train_x, test_x, train_y, test_y = model_selection.train_test_split(X, Y, test_size=0.1, random_state=10)
+        # print(data.columns)
 
-    # We have 3 classes : the output looks like :
-    # 0,0,1 : Class 1
-    # 0,1,0 : Class 2
-    # 1,0,0 : Class 3
+        models = [
+            [svm.SVC(), 'svm'],
+            [tree.DecisionTreeClassifier(), 'dt'],
+            [ensemble.RandomForestClassifier(n_estimators=100), 'rf'],
+            [naive_bayes.GaussianNB(), 'nb'],
+            [neighbors.KNeighborsClassifier(), 'knn']
 
-    train_x, test_x, train_y, test_y = model_selection.train_test_split(X, Y, test_size=0.1, random_state=10)
-    # print(data.columns)
-    input_dim = len(data.columns) - 1
-    model = tree.DecisionTreeClassifier()
-    history = model.fit(train_x, train_y)
-    scores = model.score(test_x, test_y)
-    print(scores)
-    # print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1] * 100))
-    # print(history.history.keys())
-    # pyplot.plot(history.history['acc'], label='train')
-    # pyplot.plot(history.history['loss'], label='loss')
-    # pyplot.legend()
-    # pyplot.show()
+        ]
+        for model_info in models:
+
+            model = model_info[0]
+            model_name = model_info[1]
+
+            history = model.fit(train_x, train_y)
+            # print(tree.plot_tree(model))
+            with open('./saved_model/{}_model_{}.pkl'.format(model_name, group), 'wb') as file:
+                pickle.dump(model, file)
+            scores = model.score(test_x, test_y)
+            f1_scores = f1_score(test_y, model.predict(test_x), average='weighted')
+
+
+        # dot_data = StringIO()
+        # export_graphviz(
+        #     model,
+        #     out_file=dot_data,
+        #     class_names=list(set(Y)),
+        #     filled=True,
+        #     rounded=True,
+        #     special_characters=True,
+        #     feature_names=[col for col in data.columns if col != _LABEL]
+        # )
+        # graph = pydotplus.graph_from_dot_data(dot_data.getvalue())
+        # image = Image(graph.create_png())
+        # with open('dt_output.png', 'wb') as png:
+        #     png.write(image.data)
+            print('{} model with score: '.format(model_name), f1_scores)
